@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+label {
+  width: 70px;
+  height: 40px;
+  background-color: burlywood;
+  margin: 100px;
+  /* position: relative; */
+}
+
+.check {
+  width: 0;
+  height: 0;
+  opacity: 1;
+  /* position: absolute; */
+}
+
+.ball {
+  width: 70px;
+  height: 40px;
+  background-color: cadetblue;
+  /* position: absolute; */
+
+  opacity: 0.2;
+}
